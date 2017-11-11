@@ -1,7 +1,5 @@
-# publicOpinion
+# Prossier
 A public opinion analytics project
-
-
 
 # Getting Started
 To get started with Dossier, first clone the repo and cd from the terminal/cmd-prompt into the directory where you cloned. 
