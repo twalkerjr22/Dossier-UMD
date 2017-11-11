@@ -1,4 +1,4 @@
-# Prossier
+# Welcome To The Prossier Project
 A public opinion analytics project
 
 # Getting Started
