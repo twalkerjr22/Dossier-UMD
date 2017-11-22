@@ -4,7 +4,7 @@ A public opinion analytics project
 # Developers Guide
 
 ## Getting Started
-To get started with Dossier, first clone the repo and cd from the terminal/cmd-prompt into the directory where you cloned. 
+To get started with Prossier, first clone the repo and cd from the terminal/cmd-prompt into the directory where you cloned. 
 
 Then run:
 
