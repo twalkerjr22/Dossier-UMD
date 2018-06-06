@@ -37,5 +37,5 @@ Additionally, make sure you follow the instructions for installing react.
 
 [Installing Ract] (https://reactjs.org/docs/installation.html)
 
-##Setting up a local python flask server
+## Setting up a local python flask server
 This project utilizes pythong flask and Pythong-tweeter library. In order to test the site locally you must set up and download files for this locally. Please contact main contributor for access to the server files and instructions on setting it up. For privacy reasons we cannot put the server API here on github at this time
