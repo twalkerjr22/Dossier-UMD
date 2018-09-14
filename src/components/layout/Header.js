@@ -14,7 +14,7 @@ const styles = {
 export default props => (
 
   <div >
-    <AppBar style={styles.appbarStyle} position="fixed">
+    <AppBar style={styles.appbarStyle} position="static">
       <Toolbar>
         {/* accessing the history router object from the parent App.js
         change the page */}
@@ -25,7 +25,7 @@ export default props => (
         <Button color="inherit" variant="outlined">
           Signup
         </Button>
-        <Button color="inherit" variant="outlined">
+        <Button color="inherit" variant="outlined" onClick={() => props.parentProps.history.push('/Login')} >
         Login
         </Button>
       </Toolbar>

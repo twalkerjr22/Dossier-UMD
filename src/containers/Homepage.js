@@ -78,7 +78,7 @@ class Homepage extends React.Component {
           <Grid item xs={12}>
             <Paper style={styles.paper}>
               <Typography variant="display3" style={styles.title} >
-          Dossier
+          Prossier
               </Typography>
               <FormControl style={{ width: '70%' }} >
                 <InputLabel style={{ marginLeft: 20 }} htmlFor="input-with-icon-adornment">Begin Your Search</InputLabel>

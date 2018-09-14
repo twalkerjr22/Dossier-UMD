@@ -5,14 +5,17 @@
   "dependencies": {
     "@material-ui/core": "^1.1.0",
     "@material-ui/icons": "^1.1.0",
+    "aws-amplify": "^0.4.8",
     "axios": "^0.18.0",
+    "chart.js": "^2.7.2",
     "eslint-config-airbnb": "^16.1.0",
-    "prop-types": "^15.6.1",
+    "prop-types": "15.6.1",
     "react": "^16.4.0",
+    "react-chartjs-2": "^2.7.2",
     "react-dom": "^16.4.0",
     "react-router-dom": "^4.2.2",
     "react-scripts": "1.1.4",
-    "prop-types":"15.6.1"
+    "react-vis": "^1.9.4"
   },
   "scripts": {
     "start": "react-scripts start",

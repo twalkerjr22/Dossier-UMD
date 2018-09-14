@@ -7,7 +7,9 @@ import Header from './components/layout/Header';
 
 
 const childProps = {
+  userInfo: {},
   searchTerm: '',
+  username:''
 };
 
 class App extends React.Component {
